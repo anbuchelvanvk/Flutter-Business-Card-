@@ -82,8 +82,3 @@ flutter run
 
 **🏆 Credits**
 Developed by Anbuchelvan VK
-
-Happy coding! 🚀
-This README provides a clean and structured guide to implementing your Flutter project while ensuring it runs smoothly. Let me know if you need any modifications or enhancements! 😊
-
-
